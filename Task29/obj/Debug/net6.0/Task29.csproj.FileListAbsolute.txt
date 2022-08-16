@@ -1,0 +1,15 @@
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\bin\Debug\net6.0\Task29.exe
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\bin\Debug\net6.0\Task29.deps.json
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\bin\Debug\net6.0\Task29.dll
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\bin\Debug\net6.0\Task29.pdb
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\Task29.dll
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\refint\Task29.dll
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\Task29.pdb
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task29\obj\Debug\net6.0\ref\Task29.dll
