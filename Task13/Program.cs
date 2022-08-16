@@ -13,5 +13,5 @@ if (anyNumberText.Length > 2){
   Console.WriteLine("третья цифра -> " + anyNumberText[2]);
 }
 else {
-  Console.WriteLine("-> Триетья цифра отсутствует ");
+  Console.WriteLine("-> Триетьей цифры нет");
 }
