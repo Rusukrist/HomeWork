@@ -3,7 +3,7 @@
 [345, 897, 568, 234] -> 2
 */
 
-int[] numbers = new int[10];
+int[] numbers = new int[4];
 
 void FillArray(int[] array, int min, int max)
 {
@@ -27,7 +27,7 @@ int QuantityPositive(int[] array)
     int quantity = 0;
     for (int i = 0; i<array.Length; i++ )
     {
-        if (array[i] % 2 == 1);
+    if (array[i] % 2 == 1)
         {
         quantity++;
         }
