@@ -5,7 +5,7 @@
 
 int[] numbers = new int[4];
 
-void FillArray(int[] array, int min, int max)
+void GetArray(int[] array, int min, int max)
 {
   for (int i = 0; i < array.Length; i++ )
   {
@@ -35,7 +35,7 @@ int QuantityPositive(int[] array)
   return quantity;
 }
 
-FillArray(numbers, 100, 1000);
+GetArray(numbers, 100, 1000);
 WriteArray(numbers);
 Console.WriteLine();
 
