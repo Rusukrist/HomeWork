@@ -8,16 +8,16 @@ int[] numbers = new int[4];
 void GetArray(int[] array, int min, int max)
 {
   for (int i = 0; i < array.Length; i++ )
-  {
-    array[i] = new Random().Next(min, max);
-  }
+    {
+        array[i] = new Random().Next(min, max);
+    }
 }
 
 void WriteArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++ )
     {
-    Console.Write(array[i] + " ");
+        Console.Write(array[i] + " ");
     }
   Console.WriteLine();
 }
@@ -29,7 +29,7 @@ int QuantityPositive(int[] array)
     {
     if (array[i] % 2 == 1)
         {
-        quantity++;
+            quantity++;
         }
      }
   return quantity;
