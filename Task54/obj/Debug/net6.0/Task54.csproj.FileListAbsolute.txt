@@ -1,0 +1,15 @@
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\bin\Debug\net6.0\Task54.exe
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\bin\Debug\net6.0\Task54.deps.json
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\bin\Debug\net6.0\Task54.dll
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\bin\Debug\net6.0\Task54.pdb
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\Task54.dll
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\refint\Task54.dll
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\Task54.pdb
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+D:\Обучение GeekBrains\4 Знакомство я языками программирования\семинар 2\HomeWork\Task54\obj\Debug\net6.0\ref\Task54.dll
